@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @t-segars
 - 👀 I’m interested in surfing, skating, sailing, cooking, and disc golf.
-- 🌱 I’m currently enrolled in a coding bootcamp.
+- 🌱 Student of life.
 - 📫 Reach me at t.segars@outlook.com
 
 <!---
