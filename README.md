@@ -1,4 +1,3 @@
-  www.tgsegars.com
 
 - 👋 Hi, I’m @t-segars
 - 👀 I’m interested in surfing, skating, sailing, cooking, and disc golf.
