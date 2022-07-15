@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @t-segars
 - 👀 I’m interested in surfing, skating, sailing, cooking, and disc golf.
 - 🌱 Student of life.
-- 📫 Reach me at {Email}(t.segars@outlook.com)
+- 📫 Reach me at [Email](t.segars@outlook.com)
 
 
 <!---
