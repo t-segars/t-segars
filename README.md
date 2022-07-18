@@ -5,7 +5,8 @@
 - 📫 Reach me at [Email](t.segars@outlook.com), [LinkedIn](https://www.linkedin.com/in/tim-segars/)
 
 <br />
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ### Languages and Tools:
 
 
