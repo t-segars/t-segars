@@ -6,7 +6,7 @@
 
 <br />
 <!--START_SECTION:waka-->
-
+## In the last seven days, this is what I have been doing:
 ```text
 JavaScript   9 hrs 50 mins   ████████████████▓░░░░░░░░   66.02 %
 CSS          3 hrs 54 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.25 %
