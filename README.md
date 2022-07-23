@@ -13,6 +13,10 @@ CSS          4 hrs 22 mins   ███▒░░░░░░░░░░░░░
 Markdown     4 hrs 16 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.80 %
 Other        44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
 ```
+```text
+Bash         3 hrs 1 min     █████████▒░░░░░░░░░░░░░░░   36.90 %
+Other        2 hrs 39 mins   ████████░░░░░░░░░░░░░░░░░   32.36 %
+```
 
 <!--END_SECTION:waka-->
 ### Languages and Tools:
