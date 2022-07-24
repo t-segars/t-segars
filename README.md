@@ -5,6 +5,11 @@
 - 📫 Reach me at [Email](t.segars@outlook.com), [LinkedIn](https://www.linkedin.com/in/tim-segars/)
 ## In the last seven days, this is what I have been doing:
 <br />
+
+______________________-
+I am currently working on a MERN Full-stack booking app, using React.js, Express.js, and MongoDB. The project is called wetSlip. Check it out.
+
+
 <!--START_SECTION:waka-->
 
 ```text
