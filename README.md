@@ -13,10 +13,10 @@ I am currently working on a MERN Full-stack booking app, using React.js, Express
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   41 hrs 33 mins  ███████████████████░░░░░░   76.19 %
-Markdown     5 hrs 27 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
-CSS          4 hrs 50 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
-Other        47 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+JavaScript   36 hrs 11 mins  ███████████████████▓░░░░░   78.90 %
+Markdown     4 hrs 36 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
+CSS          2 hrs 41 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+Other        47 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
 ```
 
 <!--END_SECTION:waka-->
