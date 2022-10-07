@@ -13,9 +13,8 @@ I am currently working on a MERN Full-stack booking app, using React.js, Express
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   2 hrs 31 mins   ████████████████████████░   95.46 %
-JSON         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
-Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+JavaScript   42 mins         ██████████████████████▓░░   90.72 %
+JSON         4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
 ```
 
 <!--END_SECTION:waka-->
